@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Hyeonwoo Kim
+- 👋 Hi, I’m Lewis
 - 👀 I’m currently interested in Deep learning, XAI, Continual learning.
 - 🌱 I’m currently preparing EVM-based DeFi service
 - 💞️ I’m looking to collaborate on any intersting projects.
